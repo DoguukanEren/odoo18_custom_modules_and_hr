@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<odoo>
+
+    <menuitem id="employers_employer_root_menu" name="Çalışan Yönetimi" sequence="100"/>
+    <menuitem id="employers_employer_menu" name="Çalışanlar" sequence="0" parent="employers_employer_root_menu" action="employers_employer_action"/>
+
+</odoo>
